@@ -6,6 +6,7 @@ This is a personal project to create a dancing robot on a website that has the o
 To start the website locally, run the following command in your terminal:
 
 ```bash
+npm install
 npm run dev
 ```
 
